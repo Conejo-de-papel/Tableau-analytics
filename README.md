@@ -14,7 +14,7 @@ This Tableau project provides a comprehensive analysis of the job market, focusi
 ## Screenshot
 Below is a preview of the Tableau dashboard:
 
-![Tableau Dashboard Screenshot](https://github.com/Conejo-de-papel/Power-BI-Analytics/blob/main/Снимок%20экрана%202025-03-23%20в%2002.53.34.png)  
+![Tableau Dashboard Screenshot](https://github.com/Conejo-de-papel/Tableau-analytics/blob/main/Снимок%20экрана%202025-03-23%20в%2003.17.38.png)  
 *Figure 1: Overview of the Tableau Dashboard*
 
 ## Link to the Project
