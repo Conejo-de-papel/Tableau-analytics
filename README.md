@@ -19,7 +19,7 @@ Below is a preview of the Tableau dashboard:
 
 ## Link to the Project
 Explore the interactive dashboard on Tableau Public: [Tableau Project Link](https://public.tableau.com/shared/ZSQY43KDF?:display_count=n&:origin=viz_share_link)  
-*(Replace with your actual Tableau Public link)*
+
 
 ## Data Sources
 - Publicly available job market data.
